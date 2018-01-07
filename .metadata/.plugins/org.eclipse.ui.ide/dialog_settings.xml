@@ -3,4 +3,6 @@
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
 		<item value="C:\EclipseWkOxygen64\Personal"/>
 	</list>
+	<section name="NewWizardAction">
+	</section>
 </section>
